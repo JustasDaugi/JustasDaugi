@@ -1,4 +1,4 @@
-## Labas! Justas here
+## Labas! Justas here  ![Waving Hand](https://media.giphy.com/media/3o7aC5tW2iI7eO0W7m/giphy.gif)
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
